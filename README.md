@@ -32,4 +32,3 @@ currently exploring modern tech architectures, neat terminal workflows, and thou
 <p align="center">
   <sub>thanks for stopping by, fellow wanderer~</sub>
 </p>
-```
